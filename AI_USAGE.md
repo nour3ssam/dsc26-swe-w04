@@ -1,11 +1,7 @@
-# AI usage
 
-Keep all three headings exactly as they are. If this file is missing or any heading is
-missing, the grader stops and gives 0 ("AI_USAGE.md missing or incomplete"). The content
-is not scored, but your Track Mentor reads it and the W8 defence can ask about it.
 
 ## Tools
-- Gemini
+- ChatGPT and Gemini for designing unit, API, and contract tests against SPEC.md.
 
 ## What AI got wrong
 - Initial generated tests used string checking for CORS headers instead of strict equality against allowed origins.
